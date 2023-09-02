@@ -5,7 +5,7 @@ export default function App({ Component, pageProps }) {
 	return (
 		<>
 			<Head>
-				<title>My new cool app</title>
+				<title>duqqa</title>
 			</Head>
 			<Component {...pageProps} />
 		</>
