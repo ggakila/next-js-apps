@@ -1,7 +1,3 @@
-import React from "react";
-
-
-
 export default function Hero() {
 	return (
 		<div className="hero flex flex-col items-center justify-center w-full h-1/2 md:h-1/3 overflow-hidden">

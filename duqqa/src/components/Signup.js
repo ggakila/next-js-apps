@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { FaGoogle, FaYahoo, FaFacebook } from "react-icons/fa"; // Import icons
 
 export default function Signup() {
