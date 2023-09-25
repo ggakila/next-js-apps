@@ -5,10 +5,10 @@ import ShopItems from "@/components/ShopItems";
 export default function Home() {
 	return (
 		<main
-			className={"flex gap-20 h-full flex-col items-center"}
+			className={"flex gap-20 h-full w-full flex-col items-center"}
 		>
 			<Header/>
-			<Hero/>
+			<Hero className=""/>
 			<ShopItems />
 		</main>
 	);
